@@ -1,0 +1,20 @@
+{
+  "name": "newsletter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@deepsquare/cypress-iframe": "^2.0.0",
+    "cypress": "^9.5.2",
+    "cypress-wait-until": "^1.7.2"
+  },
+  "devDependencies": {
+    "cypress-iframe": "^1.0.1"
+  }
+}
